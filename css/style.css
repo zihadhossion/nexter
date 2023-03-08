@@ -11,7 +11,13 @@ body {
   font-family: "Nunito", sans-serif;
   background-color: aquamarine;
   color: #6D5D4B;
-  font-weight: 300; }
+  font-weight: 300;
+  line-height: 1.6; }
+
+.container {
+  display: grid;
+  grid-template-rows: 80vh min-content 40vw repeat(3, min-content);
+  grid-template-columns: 8rem repeat(8, minmax(min-content, 14rem)); }
 
 .sidebar {
   background-color: #c69963; }
