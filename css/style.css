@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,400&family=Nunito:ital,wght@0,300;1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-family: "Nunito", sans-serif;
+  background-color: aquamarine;
+  color: #6D5D4B;
+  font-weight: 300; }
+
+.sidebar {
+  background-color: #c69963; }
+
+.header {
+  background-color: #54483A; }
+
+.realtors {
+  background-color: #101d2c; }
+
+.features {
+  background-color: #aaa; }
+
+.story-picture {
+  background-color: #c69963; }
+.story-content {
+  background-color: #f9f7f6; }
+
+.homes {
+  background-color: #101d2c; }
+
+.gallery {
+  background-color: #54483A; }
+
+.footer {
+  background-color: #101d2c; }
+
+/*# sourceMappingURL=style.css.map */
